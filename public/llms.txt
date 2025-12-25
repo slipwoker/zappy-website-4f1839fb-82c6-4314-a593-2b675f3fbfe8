@@ -1,0 +1,61 @@
+# חותם מלכות — Generative Engine Optimization Map
+
+> A מוצרי יודאיקה ודת business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-4f1839fb.zappy5.app
+גלו את מוצרי הסת״ם המהודרים ביותר מחותם מלכות. ספרי תורה, תפילין, מזוזות ופיטום הקטורת באיכות יוצאת דופן.
+
+### מוצרים
+https://-4f1839fb.zappy5.app/products
+עיינו במגוון המוצרים שלנו: ספרי תורה, תפילין כשרות מהודרות, מזוזות כתב יד ופיטום הקטורת באיכות מעולה.
+
+### אודות
+https://-4f1839fb.zappy5.app/about
+למדו על חותם מלכות, המומחים למוצרי סת״ם מהודרים ופיטום הקטורת. מסורת, איכות ומחויבות לקהילה היהודית.
+
+### צור קשר
+https://-4f1839fb.zappy5.app/contact
+צרו קשר עם חותם מלכות לייעוץ מקצועי ורכישת מוצרי סת״ם מהודרים ופיטום הקטורת. נשמח לעמוד לשירותכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4f1839fb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4f1839fb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4f1839fb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חותם מלכות
+חותם מלכות is a business in the מוצרי יודאיקה ודת industry.
+
+## Target Audience
+- מנהיגי קהילות יהודיות
+- תלמידי חכמים וסטודנטים
+- משפחות דתיות
+- אספני אמנות יהודית
+- חנויות מתנות יהודיות
+
+## Industry
+מוצרי יודאיקה ודת
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-4f1839fb.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-4f1839fb.zappy5.app/robots.txt
